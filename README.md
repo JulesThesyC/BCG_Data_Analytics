@@ -1,9 +1,9 @@
 # Expérience Virtuelle BCG_Data_Analytics
 Dans ce programme d'expérience virtuelle, il s'agit d'avoir un aperçu enviable de ce que c'est que de résoudre des défis significatifs avec l'équipe diversifiée et avant-gardiste du BCG. Le programme montrera quel type de problèmes sont résolus au BCG.
 
-Ce programme est conçu pour vous donner une idée de ce que c'est que de travailler au BCG X alors que nous aidons nos clients à utiliser la science des données.
+Ce programme est conçu pour vous donner une idée de ce que c'est que de travailler au BCG, alors qu'elle aide ses clients à utiliser la science des données.
 
-Lorsque nous nous attaquons à un problème commercial, nous suivons généralement cinq étapes de haut niveau :
+Lorsque BCG s'attaque à un problème commercial, elle suit généralement cinq étapes de haut niveau :
 
 #### • Compréhension de l'activité et cadrage du problème : comprendre le contexte du client et le problème qu'il tente de résoudre avec les données.
 
