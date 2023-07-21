@@ -17,6 +17,9 @@ Lorsque nous nous attaquons à un problème commercial, nous suivons généralem
 
 Chacune des tâches de ce programme correspond à une étape du processus de la science des données et suit un exemple du monde réel pour lui donner vie.
 
+
+# Context
+
 ## Le client est un important fournisseur de gaz et d'électricité
 • Fournit des services aux entreprises, aux PME et aux particuliers résidentiels
 
@@ -27,3 +30,15 @@ marché de l'énergie en Europe
 • Le problème est le plus important dans le segment des PME.
 
 BCG a été engagé pour aider le segment des PME.
+
+
+# Hypothèse du client
+Il est possible de prévoir les clients susceptibles de  à l'aide d'un modèle prédictif.
+
+Hypothèse selon laquelle le désabonnement est dû à la sensibilité au prix des clients.
+
+Le client veut essayer une stratégie d'escompte:
+
+• Le responsable de la division PME suggère d'offrir aux 
+aux clients ayant une forte propension au désabonnement une 
+une remise de 20 % pourrait être efficace.
