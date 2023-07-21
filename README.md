@@ -5,15 +5,15 @@ Ce programme est conçu pour vous donner une idée de ce que c'est que de travai
 
 Lorsque nous nous attaquons à un problème commercial, nous suivons généralement cinq étapes de haut niveau :
 
-• Compréhension de l'activité et cadrage du problème : comprendre le contexte du client et le problème qu'il tente de résoudre avec les données.
+#### • Compréhension de l'activité et cadrage du problème : comprendre le contexte du client et le problème qu'il tente de résoudre avec les données.
 
-• Analyse exploratoire des données et nettoyage des données : comprendre les données des clients et leurs propriétés statistiques, et préparer un ensemble de données pour une analyse plus approfondie.
+#### • Analyse exploratoire des données et nettoyage des données : comprendre les données des clients et leurs propriétés statistiques, et préparer un ensemble de données pour une analyse plus approfondie.
 
-• Ingénierie des caractéristiques : utilisation du contexte et de l'expertise de l'entreprise pour créer de nouvelles données susceptibles de fournir des signaux utiles à la prédiction des résultats.
+#### • Ingénierie des caractéristiques : utilisation du contexte et de l'expertise de l'entreprise pour créer de nouvelles données susceptibles de fournir des signaux utiles à la prédiction des résultats.
 
-• Modélisation et évaluation : Utilisation de l'ensemble de données pour modéliser un résultat et générer des prédictions. Ensuite, tester ces prédictions par rapport à la réalité du terrain pour voir si elles sont fiables.
+#### • Modélisation et évaluation : Utilisation de l'ensemble de données pour modéliser un résultat et générer des prédictions. Ensuite, tester ces prédictions par rapport à la réalité du terrain pour voir si elles sont fiables.
 
-• Perspectives et recommandations : transformer les perspectives de cette analyse en décisions et recommandations commerciales.
+#### • Perspectives et recommandations : transformer les perspectives de cette analyse en décisions et recommandations commerciales.
 
 Chacune des tâches de ce programme correspond à une étape du processus de la science des données et suit un exemple du monde réel pour lui donner vie.
 
