@@ -18,7 +18,7 @@ Lorsque BCG s'attaque à un problème commercial, elle suit généralement cinq 
 Chacune des tâches de ce programme correspond à une étape du processus de la science des données et suit un exemple du monde réel pour lui donner vie.
 
 
-# Context
+# Contexte
 
 ## Le client est un important fournisseur de gaz et d'électricité
 • Fournit des services aux entreprises, aux PME et aux particuliers résidentiels
