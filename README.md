@@ -1,4 +1,4 @@
-# Experience Virtuelle BCG_Data_Analytics
+# Expérience Virtuelle BCG_Data_Analytics
 Dans ce programme d'expérience virtuelle, il s'agit d'avoir un aperçu enviable de ce que c'est que de résoudre des défis significatifs avec l'équipe diversifiée et avant-gardiste du BCG. Le programme montrera quel type de problèmes sont résolus au BCG.
 
 Ce programme est conçu pour vous donner une idée de ce que c'est que de travailler au BCG X alors que nous aidons nos clients à utiliser la science des données.
